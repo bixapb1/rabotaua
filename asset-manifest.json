@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/rabotaua/static/css/main.3a3655cc.css",
-    "main.js": "/rabotaua/static/js/main.93b947ac.js",
+    "main.css": "/rabotaua/static/css/main.b7ca72fc.css",
+    "main.js": "/rabotaua/static/js/main.798db6bd.js",
     "ucare-widget-chunk.js": "/rabotaua/static/js/ucare-widget-chunk.73ffca22.chunk.js",
     "ucare-panel-chunk.js": "/rabotaua/static/js/ucare-panel-chunk.65f3d5e3.chunk.js",
     "static/js/787.ce8a4fb4.chunk.js": "/rabotaua/static/js/787.ce8a4fb4.chunk.js",
@@ -13,19 +13,23 @@
     "static/media/Group.svg": "/rabotaua/static/media/Group.83f15ee31d73f7f8b38f3d78e7d88352.svg",
     "static/media/Icon-Dislike-Filled.svg": "/rabotaua/static/media/Icon-Dislike-Filled.b1a3dc7f00f8706e05de5d95a995a639.svg",
     "static/media/Text-Label.svg": "/rabotaua/static/media/Text-Label.10222c99f29970112200cb19f23ada70.svg",
+    "static/media/slick.svg": "/rabotaua/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/rabotaua/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/rabotaua/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/Icon-Favorite-Star-Empty.svg": "/rabotaua/static/media/Icon-Favorite-Star-Empty.f017c6c065d8e20550663e6fd02cb41d.svg",
+    "static/media/slick.woff": "/rabotaua/static/media/slick.295183786cd8a1389865.woff",
     "static/media/Error.svg": "/rabotaua/static/media/Error.b4dde237ec15a8550b604b439f7ee846.svg",
     "static/media/Icon-Favorite-Star-Filled.svg": "/rabotaua/static/media/Icon-Favorite-Star-Filled.0bdc0cbb0fc150408ed0679ee68a58fe.svg",
     "index.html": "/rabotaua/index.html",
-    "main.3a3655cc.css.map": "/rabotaua/static/css/main.3a3655cc.css.map",
-    "main.93b947ac.js.map": "/rabotaua/static/js/main.93b947ac.js.map",
+    "main.b7ca72fc.css.map": "/rabotaua/static/css/main.b7ca72fc.css.map",
+    "main.798db6bd.js.map": "/rabotaua/static/js/main.798db6bd.js.map",
     "ucare-widget-chunk.73ffca22.chunk.js.map": "/rabotaua/static/js/ucare-widget-chunk.73ffca22.chunk.js.map",
     "ucare-panel-chunk.65f3d5e3.chunk.js.map": "/rabotaua/static/js/ucare-panel-chunk.65f3d5e3.chunk.js.map",
     "787.ce8a4fb4.chunk.js.map": "/rabotaua/static/js/787.ce8a4fb4.chunk.js.map",
     "46.7c4936c8.chunk.js.map": "/rabotaua/static/js/46.7c4936c8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a3655cc.css",
-    "static/js/main.93b947ac.js"
+    "static/css/main.b7ca72fc.css",
+    "static/js/main.798db6bd.js"
   ]
 }
