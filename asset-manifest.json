@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rabotaua/static/css/main.3a3655cc.css",
-    "main.js": "/rabotaua/static/js/main.78720086.js",
+    "main.js": "/rabotaua/static/js/main.93b947ac.js",
     "ucare-widget-chunk.js": "/rabotaua/static/js/ucare-widget-chunk.73ffca22.chunk.js",
     "ucare-panel-chunk.js": "/rabotaua/static/js/ucare-panel-chunk.65f3d5e3.chunk.js",
     "static/js/787.ce8a4fb4.chunk.js": "/rabotaua/static/js/787.ce8a4fb4.chunk.js",
@@ -18,7 +18,7 @@
     "static/media/Icon-Favorite-Star-Filled.svg": "/rabotaua/static/media/Icon-Favorite-Star-Filled.0bdc0cbb0fc150408ed0679ee68a58fe.svg",
     "index.html": "/rabotaua/index.html",
     "main.3a3655cc.css.map": "/rabotaua/static/css/main.3a3655cc.css.map",
-    "main.78720086.js.map": "/rabotaua/static/js/main.78720086.js.map",
+    "main.93b947ac.js.map": "/rabotaua/static/js/main.93b947ac.js.map",
     "ucare-widget-chunk.73ffca22.chunk.js.map": "/rabotaua/static/js/ucare-widget-chunk.73ffca22.chunk.js.map",
     "ucare-panel-chunk.65f3d5e3.chunk.js.map": "/rabotaua/static/js/ucare-panel-chunk.65f3d5e3.chunk.js.map",
     "787.ce8a4fb4.chunk.js.map": "/rabotaua/static/js/787.ce8a4fb4.chunk.js.map",
@@ -26,6 +26,6 @@
   },
   "entrypoints": [
     "static/css/main.3a3655cc.css",
-    "static/js/main.78720086.js"
+    "static/js/main.93b947ac.js"
   ]
 }
