@@ -1,0 +1,54 @@
+@font-face {
+  font-family: "Graphik LC";
+  src: local("Graphik LC"),
+    url("./fonts/Graphik-Regular-Web.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Graphik-Bold";
+  src: local("Graphik-Bold"),
+    url("./fonts/Graphik-Bold-Web.woff2") format("woff2");
+}
+body {
+  font-family: "Graphik LC";
+  background-color: #f2f5f8;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  max-width: 750px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+.uploadcare--widget__button_type_open {
+  display: none;
+}
+.uploadcare--widget__button {
+  display: none;
+}
+.uploadcare--widget__file-size {
+  display: none;
+}
+.uploadcare--widget__text {
+  position: absolute;
+  display: inline-block;
+  box-sizing: border-box;
+  margin-right: 0.2em;
+  padding: 0.4em 0;
+  white-space: nowrap;
+}
+.uploadcare--link,
+.uploadcare--link:link,
+.uploadcare--link:visited {
+  display: none;
+}
+#uploadcare--widget__text {
+  display: none;
+}
+
+@media screen and (max-width: 600px) {
+  .container {
+    max-width: 340px;
+  }
+}
