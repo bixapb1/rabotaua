@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/rabotaua/static/css/main.3a3655cc.css",
+    "main.js": "/rabotaua/static/js/main.78720086.js",
+    "ucare-widget-chunk.js": "/rabotaua/static/js/ucare-widget-chunk.73ffca22.chunk.js",
+    "ucare-panel-chunk.js": "/rabotaua/static/js/ucare-panel-chunk.65f3d5e3.chunk.js",
+    "static/js/787.ce8a4fb4.chunk.js": "/rabotaua/static/js/787.ce8a4fb4.chunk.js",
+    "static/js/46.7c4936c8.chunk.js": "/rabotaua/static/js/46.7c4936c8.chunk.js",
+    "static/media/Graphik-Bold-Web.woff2": "/rabotaua/static/media/Graphik-Bold-Web.a814eae41d5b090ec309.woff2",
+    "static/media/Graphik-Regular-Web.woff2": "/rabotaua/static/media/Graphik-Regular-Web.14b6085903d31b2fe601.woff2",
+    "static/media/Icon-Dislike-Empty.svg": "/rabotaua/static/media/Icon-Dislike-Empty.d488cf98d0a4cde6911817a5b26626ed.svg",
+    "static/media/Logo.svg": "/rabotaua/static/media/Logo.f1210e8f4f6fdaecdaad0a154f028fe1.svg",
+    "static/media/Group.svg": "/rabotaua/static/media/Group.83f15ee31d73f7f8b38f3d78e7d88352.svg",
+    "static/media/Icon-Dislike-Filled.svg": "/rabotaua/static/media/Icon-Dislike-Filled.b1a3dc7f00f8706e05de5d95a995a639.svg",
+    "static/media/Text-Label.svg": "/rabotaua/static/media/Text-Label.10222c99f29970112200cb19f23ada70.svg",
+    "static/media/Icon-Favorite-Star-Empty.svg": "/rabotaua/static/media/Icon-Favorite-Star-Empty.f017c6c065d8e20550663e6fd02cb41d.svg",
+    "static/media/Error.svg": "/rabotaua/static/media/Error.b4dde237ec15a8550b604b439f7ee846.svg",
+    "static/media/Icon-Favorite-Star-Filled.svg": "/rabotaua/static/media/Icon-Favorite-Star-Filled.0bdc0cbb0fc150408ed0679ee68a58fe.svg",
+    "index.html": "/rabotaua/index.html",
+    "main.3a3655cc.css.map": "/rabotaua/static/css/main.3a3655cc.css.map",
+    "main.78720086.js.map": "/rabotaua/static/js/main.78720086.js.map",
+    "ucare-widget-chunk.73ffca22.chunk.js.map": "/rabotaua/static/js/ucare-widget-chunk.73ffca22.chunk.js.map",
+    "ucare-panel-chunk.65f3d5e3.chunk.js.map": "/rabotaua/static/js/ucare-panel-chunk.65f3d5e3.chunk.js.map",
+    "787.ce8a4fb4.chunk.js.map": "/rabotaua/static/js/787.ce8a4fb4.chunk.js.map",
+    "46.7c4936c8.chunk.js.map": "/rabotaua/static/js/46.7c4936c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a3655cc.css",
+    "static/js/main.78720086.js"
+  ]
+}
