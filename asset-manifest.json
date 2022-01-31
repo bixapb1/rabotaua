@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/rabotaua/static/css/main.4171cc9a.css",
-    "main.js": "/rabotaua/static/js/main.cad12f6a.js",
+    "main.css": "/rabotaua/static/css/main.9d3d6db9.css",
+    "main.js": "/rabotaua/static/js/main.853eabbb.js",
     "ucare-widget-chunk.js": "/rabotaua/static/js/ucare-widget-chunk.73ffca22.chunk.js",
     "ucare-panel-chunk.js": "/rabotaua/static/js/ucare-panel-chunk.65f3d5e3.chunk.js",
     "static/js/787.ce8a4fb4.chunk.js": "/rabotaua/static/js/787.ce8a4fb4.chunk.js",
@@ -17,15 +17,15 @@
     "static/media/Error.svg": "/rabotaua/static/media/Error.b4dde237ec15a8550b604b439f7ee846.svg",
     "static/media/Icon-Favorite-Star-Filled.svg": "/rabotaua/static/media/Icon-Favorite-Star-Filled.0bdc0cbb0fc150408ed0679ee68a58fe.svg",
     "index.html": "/rabotaua/index.html",
-    "main.4171cc9a.css.map": "/rabotaua/static/css/main.4171cc9a.css.map",
-    "main.cad12f6a.js.map": "/rabotaua/static/js/main.cad12f6a.js.map",
+    "main.9d3d6db9.css.map": "/rabotaua/static/css/main.9d3d6db9.css.map",
+    "main.853eabbb.js.map": "/rabotaua/static/js/main.853eabbb.js.map",
     "ucare-widget-chunk.73ffca22.chunk.js.map": "/rabotaua/static/js/ucare-widget-chunk.73ffca22.chunk.js.map",
     "ucare-panel-chunk.65f3d5e3.chunk.js.map": "/rabotaua/static/js/ucare-panel-chunk.65f3d5e3.chunk.js.map",
     "787.ce8a4fb4.chunk.js.map": "/rabotaua/static/js/787.ce8a4fb4.chunk.js.map",
     "46.7c4936c8.chunk.js.map": "/rabotaua/static/js/46.7c4936c8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4171cc9a.css",
-    "static/js/main.cad12f6a.js"
+    "static/css/main.9d3d6db9.css",
+    "static/js/main.853eabbb.js"
   ]
 }
